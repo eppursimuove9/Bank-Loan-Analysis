@@ -68,20 +68,22 @@ For a complete and dynamic exploration of the data, you can access the interacti
 ```
 financial-loan-analysis/
 │
+├── 🖼️ assets/
+│   ├── 📄 Summary.png
+│   └── 📄 Overview.png
+│   └── 📄 Details.png
+│
 ├── 📂 data/
 │   └── 📄 financial_loan.csv
-│
-├── 📂 sql_queries/
-│   ├── 📄 01_kpi_summary.sql
-│   ├── 📄 02_loan_status_analysis.sql
-│   └── 📄 03_dimensional_analysis.sql
 │
 ├── 📂 docs/
 │   ├── 📄 BANK LOAN REPORT PROBLEM STATEMENT.docx
 │   └── 📄 BANK LOAN REPORT QUERY DOCUMENT.docx
 │
-├── 🖼️ assets/
-│   └── 📄 dashboard_screenshot.png
+├── 📂 sql_queries/
+│   ├── 📄 01_kpi_summary.sql
+│   ├── 📄 02_loan_status_analysis.sql
+│   └── 📄 03_dimensional_analysis.sql
 │
 ├── 📄 .gitignore
 ├── 📄 LICENSE
