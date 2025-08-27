@@ -82,5 +82,6 @@ financial-loan-analysis/
 │   └── 📄 dashboard_screenshot.png
 │
 ├── 📄 .gitignore
+├── 📄 LICENSE
 └── 📄 README.md
 ```
