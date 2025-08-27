@@ -1,0 +1,65 @@
+# ===================================================================
+# Operating System specific files
+# ===================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.[Ll]nk
+
+# ===================================================================
+# Python Virtual Environment files
+# Never commit your virtual environments to GitHub
+# ===================================================================
+/venv/
+/env/
+/.venv/
+/.env/
+/ENV/
+
+# ===================================================================
+# Python and Jupyter Notebook generated files
+# ===================================================================
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ===================================================================
+# IDE and Code Editor configuration files
+# ===================================================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===================================================================
+# Data Files and Credentials
+# IMPORTANT! Do not commit sensitive data or very large files
+# ===================================================================
+
+# Uncomment the following line if you have large CSV files you don't want to commit
+# *.csv
+
+# Environment variable files (can contain passwords or API keys)
+.env
+*.env
+
+# ===================================================================
+# Other
+# ===================================================================
+
+# Logs
+*.log
+logs/
