@@ -57,7 +57,9 @@ For a complete and dynamic exploration of the data, you can access the interacti
 
 *It is recommended to explore the filters for loan status, purpose, and grade to uncover deeper insights.*
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](assets/Summary.png)
+![Dashboard Screenshot](assets/Overview.png)
+![Dashboard Screenshot](assets/Details.png)
 
 ---
 
