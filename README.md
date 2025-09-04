@@ -20,7 +20,7 @@ This project directly addresses these challenges by transforming raw loan data i
 
 The following diagram illustrates the complete data analysis pipeline, from data extraction with SQL to the final interactive dashboard in Tableau.
 
-![Data Analysis Workflow](assets/diagrama-bank.png)
+![Data Analysis Workflow](assets/diagram-bank.png)
 
 The project was developed following a structured data analysis workflow:
 
