@@ -18,6 +18,10 @@ This project directly addresses these challenges by transforming raw loan data i
 
 ## Methodology
 
+The following diagram illustrates the complete data analysis pipeline, from data extraction with SQL to the final interactive dashboard in Tableau.
+
+![Data Analysis Workflow](assets/diagrama-bank.png)
+
 The project was developed following a structured data analysis workflow:
 
 1.  **Data Extraction and Aggregation:** SQL queries were used to extract, clean, and aggregate data from the `financial_loan.csv` dataset. Key metrics such as total loan applications, total funded amount, average interest rates, and the distinction between "good" and "bad" loans were calculated. All queries are located in the `/sql_queries` folder.
